@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuanzhe Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "M.S. Student at Penn"
+  location         : "Philadelphia, PA"
+  employer         : "University of Pennsylvania"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yuanzhel@seas.upenn.edu" 
 
   # Academic websites
   academia         : # URL
