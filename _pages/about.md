@@ -137,11 +137,6 @@ My research focuses on the capability of embodied agents and applying them for p
 
 ## News
 
-🎉 **(2025.11)** [MiCRo](https://arxiv.org/abs/2411.xxxxx) won the **EMNLP 2025 Outstanding Paper Award**. Huge congrats to the team!
-
-⭐ **(2025.11)** Check out our new paper about visual backdoor attacks on VLM-based embodied agents [BEAT](https://arxiv.org/abs/2411.xxxxx)!
-
-⭐ **(2025.10)** We released [Embodied Reasoning Agent (ERA)](https://github.com/your-repo/ERA), a training recipe for VLM-based embodied agents with enhanced reasoning and grounding capability. Explore more on our [project page](https://your-project-page.com).
 
 ---
 
