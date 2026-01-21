@@ -139,31 +139,57 @@ My research focuses on the capability of embodied agents and applying them for p
 ---
 
 <script>
-function switchTab(tabName, element) {
-  console.log('Switching to tab:', tabName);
-  
-  // Hide all tabs
-  document.querySelectorAll('.tab-content').forEach(tab => {
-    tab.classList.remove('active');
+(function() {
+  // Wait for DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', function() {
+    var selectedBtn = document.getElementById('tab-selected');
+    var fullBtn = document.getElementById('tab-full');
+    
+    function switchTab(tabName) {
+      console.log('Switching to tab:', tabName);
+      
+      // Hide all tab contents
+      document.querySelectorAll('.tab-content').forEach(function(tab) {
+        tab.classList.remove('active');
+      });
+      
+      // Remove active class from all buttons
+      document.querySelectorAll('.pub-tab-button').forEach(function(btn) {
+        btn.classList.remove('active');
+      });
+      
+      // Show selected tab
+      var targetTab = document.getElementById(tabName + '-tab');
+      console.log('Target tab element:', targetTab);
+      if (targetTab) {
+        targetTab.classList.add('active');
+      }
+      
+      // Add active class to clicked button
+      if (tabName === 'selected' && selectedBtn) {
+        selectedBtn.classList.add('active');
+      } else if (tabName === 'full' && fullBtn) {
+        fullBtn.classList.add('active');
+      }
+    }
+    
+    // Add event listeners
+    if (selectedBtn) {
+      selectedBtn.addEventListener('click', function() {
+        switchTab('selected');
+      });
+    }
+    
+    if (fullBtn) {
+      fullBtn.addEventListener('click', function() {
+        switchTab('full');
+      });
+    }
+    
+    // Initialize with selected tab
+    switchTab('selected');
   });
-  
-  // Remove active class from all buttons
-  document.querySelectorAll('.pub-tab-button').forEach(btn => {
-    btn.classList.remove('active');
-  });
-  
-  // Show selected tab
-  const targetTab = document.getElementById(tabName + '-tab');
-  console.log('Target tab element:', targetTab);
-  if (targetTab) {
-    targetTab.classList.add('active');
-  }
-  
-  // Add active class to clicked button
-  if (element) {
-    element.classList.add('active');
-  }
-}
+})();
 </script>
 
 <div id="publications" class="page-section"></div>
@@ -171,8 +197,8 @@ function switchTab(tabName, element) {
 ## Publications
 
 <div class="pub-tabs">
-  <button class="pub-tab-button active" onclick="switchTab('selected', this)">Selected</button>
-  <button class="pub-tab-button" onclick="switchTab('full', this)">Full</button>
+  <button id="tab-selected" class="pub-tab-button active">Selected</button>
+  <button id="tab-full" class="pub-tab-button">Full</button>
 </div>
 
 <div id="selected-tab" class="tab-content active">
