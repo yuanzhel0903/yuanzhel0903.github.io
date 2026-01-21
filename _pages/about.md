@@ -149,7 +149,6 @@ My research focuses on the capability of embodied agents and applying them for p
 </div>
 
 <div id="selected-tab" class="tab-content active">
-  <p class="pub-note">(The Selected tab highlights publications that best represent my expertise)</p>
   
   <!-- Selected Publications -->
   <div class="publication-item">
