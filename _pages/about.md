@@ -171,7 +171,45 @@ My research focuses on the capability of embodied agents and applying them for p
 </div>
 
 <div id="full-tab" class="tab-content">
-  <p>Full list of publications will be displayed here.</p>
+  
+  <!-- Publication 1 -->
+  <div class="publication-item">
+    <div class="pub-image">
+      <img src="/images/spatialreasoner.png" alt="SpatialReasoner-R1">
+    </div>
+    <div class="pub-content">
+      <div class="pub-title">Fine-Grained Preference Optimization Improves Spatial Reasoning in VLMs</div>
+      <div class="pub-authors">
+        Yifan Shen*, <strong>Yuanzhe Liu*</strong> (*equal contribution), Jingyuan Zhu, Xu Cao, Xiaofeng Zhang, Yixiao He, Wenming Ye, James M. Rehg, Ismini Lourentzou
+      </div>
+      <div class="pub-venue">NeurIPS, 2025</div>
+      <div class="pub-links">
+        <a href="https://plan-lab.github.io/projects/spatialreasoner/">Webpage</a>
+        <a href="https://arxiv.org/pdf/2506.21656">Paper</a>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Publication 2 -->
+  <div class="publication-item">
+    <div class="pub-image">
+      <img src="/images/deeptrace.png" alt="DeeptraceReward">
+    </div>
+    <div class="pub-content">
+      <div class="pub-title">DeeptraceReward: Learning Human-Perceived Fakeness in Generated Videos with Multimodal LLMs</div>
+      <div class="pub-authors">
+        Xingyu Fu*, Siyi Liu*, Yinuo Xu*, Pan Lu, Guangqiuse Hu, Tianbo Yang, Taran Anantasagar, Christopher Shen, Yikai Mao, <strong>Yuanzhe Liu</strong>, Keyush Shah, Chung Un Lee, Yejin Choi, James Zou, Dan Roth, Chris Callison-Burch
+      </div>
+      <div class="pub-venue">Preprint, 2025</div>
+      <div class="pub-links">
+        <a href="https://deeptracereward.github.io/">Webpage</a>
+        <a href="https://arxiv.org/pdf/2509.22646">Paper</a>
+        <a href="https://github.com/deeptracereward/deeptracereward">Code</a>
+        <a href="https://huggingface.co/datasets/DeeptraceReward/RewardData">Dataset</a>
+      </div>
+    </div>
+  </div>
+  
 </div>
 
 ---
