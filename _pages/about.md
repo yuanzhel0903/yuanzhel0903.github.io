@@ -165,7 +165,7 @@ My research focuses on the capability of embodied agents and applying them for p
     <div class="pub-content">
       <div class="pub-title">Fine-Grained Preference Optimization Improves Spatial Reasoning in VLMs</div>
       <div class="pub-authors">
-        Yifan Shen, <strong>Yuanzhe Liu</strong>, Jingyuan Zhu, Xu Cao, Xiaofeng Zhang, Yixiao He, Wenming Ye, James M. Rehg, Ismini Lourentzou
+        Yifan Shen*, <strong>Yuanzhe Liu*</strong> (*equal contribution), Jingyuan Zhu, Xu Cao, Xiaofeng Zhang, Yixiao He, Wenming Ye, James M. Rehg, Ismini Lourentzou
       </div>
       <div class="pub-venue">NeurIPS, 2025</div>
       <div class="pub-links">
