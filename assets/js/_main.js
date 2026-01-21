@@ -2,12 +2,6 @@
    Various functions that we want to use within the template
    ========================================================================== */
 
-// Force light theme immediately on page load
-(function() {
-  localStorage.setItem("theme", "light");
-  document.documentElement.removeAttribute("data-theme");
-})();
-
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
 // "system". Default is "system".
 let determineThemeSetting = () => {
@@ -30,8 +24,11 @@ const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 
 
 // Set the theme on page load or when explicitly called
 let setTheme = (theme) => {
-  // Always use light theme
-  const use_theme = "light";
+  const use_theme =
+    theme ||
+    localStorage.getItem("theme") ||
+    $("html").attr("data-theme") ||
+    browserPref;
 
   if (use_theme === "dark") {
     $("html").attr("data-theme", "dark");
@@ -93,9 +90,17 @@ $(document).ready(function () {
   const scssLarge = 925;          // pixels, from /_sass/_themes.scss
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
 
-  // Force light theme only
-  localStorage.setItem("theme", "light");
-  setTheme("light");
+  // If the user hasn't chosen a theme, follow the OS preference
+  setTheme();
+  window.matchMedia('(prefers-color-scheme: dark)')
+        .addEventListener("change", (e) => {
+          if (!localStorage.getItem("theme")) {
+            setTheme(e.matches ? "dark" : "light");
+          }
+        });
+
+  // Enable the theme toggle
+  $('#theme-toggle').on('click', toggleTheme);
 
   // Enable the sticky footer
   var bumpIt = function () {
