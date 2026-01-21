@@ -136,7 +136,6 @@ I am a Master's student in Data Science at the University of Pennsylvania. Previ
 My research focuses on the capability of embodied agents and applying them for perception, reasoning, and planning in the physical world. My work lies at the intersection of **Multimodal Learning** (VLMs/MLLMs), **Robot Learning** (Robotic Foundation Models, VLA), and **Deep Reinforcement Learning**.
 
 ## News
-
 ---
 
 <div id="publications" class="page-section"></div>
@@ -144,8 +143,8 @@ My research focuses on the capability of embodied agents and applying them for p
 ## Publications
 
 <div class="pub-tabs">
-  <button class="pub-tab-button active" onclick="switchTab('selected')">Selected</button>
-  <button class="pub-tab-button" onclick="switchTab('full')">Full</button>
+  <button class="pub-tab-button active" onclick="switchTab('selected', this)">Selected</button>
+  <button class="pub-tab-button" onclick="switchTab('full', this)">Full</button>
 </div>
 
 <div id="selected-tab" class="tab-content active">
@@ -250,7 +249,7 @@ My research focuses on the capability of embodied agents and applying them for p
 In my leisure time, I enjoy sports like running, table tennis, and swimming.
 
 <script>
-function switchTab(tabName) {
+function switchTab(tabName, element) {
   // Hide all tabs
   document.querySelectorAll('.tab-content').forEach(tab => {
     tab.classList.remove('active');
@@ -265,6 +264,6 @@ function switchTab(tabName) {
   document.getElementById(tabName + '-tab').classList.add('active');
   
   // Add active class to clicked button
-  event.target.classList.add('active');
+  element.classList.add('active');
 }
 </script>
