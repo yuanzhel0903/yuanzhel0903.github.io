@@ -138,6 +138,34 @@ My research focuses on the capability of embodied agents and applying them for p
 ## News
 ---
 
+<script>
+function switchTab(tabName, element) {
+  console.log('Switching to tab:', tabName);
+  
+  // Hide all tabs
+  document.querySelectorAll('.tab-content').forEach(tab => {
+    tab.classList.remove('active');
+  });
+  
+  // Remove active class from all buttons
+  document.querySelectorAll('.pub-tab-button').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  
+  // Show selected tab
+  const targetTab = document.getElementById(tabName + '-tab');
+  console.log('Target tab element:', targetTab);
+  if (targetTab) {
+    targetTab.classList.add('active');
+  }
+  
+  // Add active class to clicked button
+  if (element) {
+    element.classList.add('active');
+  }
+}
+</script>
+
 <div id="publications" class="page-section"></div>
 
 ## Publications
@@ -247,31 +275,3 @@ My research focuses on the capability of embodied agents and applying them for p
 ### Hobbies
 
 In my leisure time, I enjoy sports like running, table tennis, and swimming.
-
-<script>
-function switchTab(tabName, element) {
-  console.log('Switching to tab:', tabName);
-  
-  // Hide all tabs
-  document.querySelectorAll('.tab-content').forEach(tab => {
-    tab.classList.remove('active');
-  });
-  
-  // Remove active class from all buttons
-  document.querySelectorAll('.pub-tab-button').forEach(btn => {
-    btn.classList.remove('active');
-  });
-  
-  // Show selected tab
-  const targetTab = document.getElementById(tabName + '-tab');
-  console.log('Target tab element:', targetTab);
-  if (targetTab) {
-    targetTab.classList.add('active');
-  }
-  
-  // Add active class to clicked button
-  if (element) {
-    element.classList.add('active');
-  }
-}
-</script>
