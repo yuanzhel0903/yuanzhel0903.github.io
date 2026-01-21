@@ -137,7 +137,6 @@ My research focuses on the capability of embodied agents and applying them for p
 
 ## News
 
-
 ---
 
 <div id="publications" class="page-section"></div>
