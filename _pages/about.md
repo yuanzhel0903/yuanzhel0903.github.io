@@ -137,7 +137,11 @@ My research focuses on the capability of embodied agents and applying them for p
 
 ## News
 
+🎉 **(2025.11)** [MiCRo](https://arxiv.org/abs/2411.xxxxx) won the **EMNLP 2025 Outstanding Paper Award**. Huge congrats to the team!
 
+⭐ **(2025.11)** Check out our new paper about visual backdoor attacks on VLM-based embodied agents [BEAT](https://arxiv.org/abs/2411.xxxxx)!
+
+⭐ **(2025.10)** We released [Embodied Reasoning Agent (ERA)](https://github.com/your-repo/ERA), a training recipe for VLM-based embodied agents with enhanced reasoning and grounding capability. Explore more on our [project page](https://your-project-page.com).
 
 ---
 
@@ -153,21 +157,21 @@ My research focuses on the capability of embodied agents and applying them for p
 <div id="selected-tab" class="tab-content active">
   <p class="pub-note">(The Selected tab highlights publications that best represent my expertise)</p>
   
-  <!-- Add your selected publications here -->
+  <!-- Selected Publications -->
   <div class="publication-item">
     <div class="pub-image">
-      <img src="/images/500x300.png" alt="Publication thumbnail">
+      <img src="/images/spatialreasoner.png" alt="SpatialReasoner-R1">
     </div>
     <div class="pub-content">
-      <div class="pub-title">Your Selected Paper Title Here</div>
+      <div class="pub-title">Fine-Grained Preference Optimization Improves Spatial Reasoning in VLMs</div>
       <div class="pub-authors">
-        <strong>Yuanzhe Liu</strong>, Co-author Name, Another Author
+        Yifan Shen, <strong>Yuanzhe Liu</strong>, Jingyuan Zhu, Xu Cao, Xiaofeng Zhang, Yixiao He, Wenming Ye, James M. Rehg, Ismini Lourentzou
       </div>
       <div class="pub-venue">NeurIPS, 2025</div>
       <div class="pub-links">
-        <a href="#">Webpage</a>
-        <a href="#">Paper</a>
-        <a href="#">Code</a>
+        <a href="https://plan-lab.github.io/projects/spatialreasoner/">Webpage</a>
+        <a href="https://arxiv.org/pdf/2506.21656">Paper</a>
+        <a href="#" style="color: #999; pointer-events: none;">Code (Coming Soon)</a>
       </div>
     </div>
   </div>
