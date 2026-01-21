@@ -250,6 +250,8 @@ In my leisure time, I enjoy sports like running, table tennis, and swimming.
 
 <script>
 function switchTab(tabName, element) {
+  console.log('Switching to tab:', tabName);
+  
   // Hide all tabs
   document.querySelectorAll('.tab-content').forEach(tab => {
     tab.classList.remove('active');
@@ -261,9 +263,15 @@ function switchTab(tabName, element) {
   });
   
   // Show selected tab
-  document.getElementById(tabName + '-tab').classList.add('active');
+  const targetTab = document.getElementById(tabName + '-tab');
+  console.log('Target tab element:', targetTab);
+  if (targetTab) {
+    targetTab.classList.add('active');
+  }
   
   // Add active class to clicked button
-  element.classList.add('active');
+  if (element) {
+    element.classList.add('active');
+  }
 }
 </script>
