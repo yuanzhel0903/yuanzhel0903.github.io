@@ -334,7 +334,7 @@ My research focuses on the capability of embodied agents and applying them for p
     <img src="/images/wisc_logo2.png" alt="University of Wisconsin-Madison">
   </div>
   <div class="edu-content">
-    <div class="edu-degree"><strong>B.S. in Mathematics</strong>, University of Wisconsin–Madison, 2020-2024</div>
+    <div class="edu-degree"><strong>B.S. in Mathematics</strong>, University of Wisconsin–Madison, 2019-2023</div>
   </div>
 </div>
 
