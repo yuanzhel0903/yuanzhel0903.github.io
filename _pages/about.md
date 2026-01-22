@@ -84,14 +84,15 @@ redirect_from:
   }
   
   .pub-title {
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     line-height: 1.4;
   }
   
   .pub-authors {
-    margin-bottom: 8px;
+    font-size: 14px;
+    margin-bottom: 6px;
     line-height: 1.6;
   }
   
