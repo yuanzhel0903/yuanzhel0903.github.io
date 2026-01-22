@@ -305,9 +305,8 @@ My research focuses on the capability of embodied agents and applying them for p
 
 ## Experiences
 
-- **Research Assistant** at Microsoft Research, 2025.
-- **Research Intern** at Tencent AI Lab and Robotics X Lab, 2020-2022 (Multiple internship terms).
-- **Machine Learning Intern** at Meituan, 2019.
+- **Research Assistant** 
+- **Research Intern** 
 
 ---
 
