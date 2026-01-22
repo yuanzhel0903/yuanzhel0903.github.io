@@ -118,7 +118,7 @@ redirect_from:
     margin-right: 15px;
     color: #4285f4;
     text-decoration: none;
-    font-size: 13px;
+    font-size: 15px;
   }
   
   .pub-links a:hover {
