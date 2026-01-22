@@ -344,8 +344,10 @@ My research focuses on the capability of embodied agents and applying them for p
 
 ## Experiences
 
-- **Research Assistant** 
-- **Research Intern** 
+- **[2025/07]** : Research Intern at UIUC, Champaign IL
+- **[2025/05]** : LLM Algorithm Intern @ Baidu, Beijing
+- **[2024/08]** : Research Intern at UPenn, Philadelphia PA
+- **[2024/05]** : LLM Algorithm Intern @ Alibaba Cloud, Hangzhou
 
 ---
 
