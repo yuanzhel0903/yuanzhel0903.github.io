@@ -140,7 +140,7 @@ My research focuses on the capability of embodied agents and applying them for p
 
 <div id="publications" class="page-section"></div>
 
-## Publications
+<h2>Publications</h2>
 
 <div class="pub-tabs">
   <button id="tab-selected" class="pub-tab-button active">Selected</button>
