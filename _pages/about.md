@@ -207,25 +207,17 @@ My research focuses on the capability of embodied agents and applying them for p
 (function() {
   function switchTab(tabName) {
     console.log('Switching to tab:', tabName);
-    
-    // Hide all tab contents
     document.querySelectorAll('.tab-content').forEach(function(tab) {
       tab.classList.remove('active');
     });
-    
-    // Remove active class from all buttons
     document.querySelectorAll('.pub-tab-button').forEach(function(btn) {
       btn.classList.remove('active');
     });
-    
-    // Show selected tab
     var targetTab = document.getElementById(tabName + '-tab');
     console.log('Target tab element:', targetTab);
     if (targetTab) {
       targetTab.classList.add('active');
     }
-    
-    // Add active class to clicked button
     var selectedBtn = document.getElementById('tab-selected');
     var fullBtn = document.getElementById('tab-full');
     if (tabName === 'selected' && selectedBtn) {
@@ -234,24 +226,18 @@ My research focuses on the capability of embodied agents and applying them for p
       fullBtn.classList.add('active');
     }
   }
-  
-  // Add event listeners immediately (no DOMContentLoaded needed since script is after HTML)
   var selectedBtn = document.getElementById('tab-selected');
   var fullBtn = document.getElementById('tab-full');
-  
   if (selectedBtn) {
     selectedBtn.addEventListener('click', function() {
       switchTab('selected');
     });
   }
-  
   if (fullBtn) {
     fullBtn.addEventListener('click', function() {
       switchTab('full');
     });
   }
-  
-  // Initialize with selected tab
   switchTab('selected');
 })();
 </script>
