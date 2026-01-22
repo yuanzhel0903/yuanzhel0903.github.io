@@ -167,6 +167,21 @@ My research focuses on the capability of embodied agents and applying them for p
       </div>
     </div>
   </div>
+  <div class="publication-item">
+    <div class="pub-image">
+      <img src="/images/palm.png" alt="PALM">
+    </div>
+    <div class="pub-content">
+      <div class="pub-title">PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation</div>
+      <div class="pub-authors">
+        <strong>Yuanzhe Liu</strong>, Jingyuan Zhu, Yuchen Mo, Gen Li, Xu Cao, Jin Jin, Yifan Shen, Zhengyuan Li, Tianjiao Yu, Wenzhen Yuan, Fangqiang Ding, Ismini Lourentzou
+      </div>
+      <div class="pub-venue">Preprint, 2025</div>
+      <div class="pub-links">
+        <a href="https://arxiv.org/pdf/2601.07060">Paper</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div id="full-tab" class="tab-content">
@@ -183,6 +198,21 @@ My research focuses on the capability of embodied agents and applying them for p
       <div class="pub-links">
         <a href="https://plan-lab.github.io/projects/spatialreasoner/">Webpage</a>
         <a href="https://arxiv.org/pdf/2506.21656">Paper</a>
+      </div>
+    </div>
+  </div>
+  <div class="publication-item">
+    <div class="pub-image">
+      <img src="/images/palm.png" alt="PALM">
+    </div>
+    <div class="pub-content">
+      <div class="pub-title">PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation</div>
+      <div class="pub-authors">
+        <strong>Yuanzhe Liu</strong>, Jingyuan Zhu, Yuchen Mo, Gen Li, Xu Cao, Jin Jin, Yifan Shen, Zhengyuan Li, Tianjiao Yu, Wenzhen Yuan, Fangqiang Ding, Ismini Lourentzou
+      </div>
+      <div class="pub-venue">Preprint, 2025</div>
+      <div class="pub-links">
+        <a href="https://arxiv.org/pdf/2601.07060">Paper</a>
       </div>
     </div>
   </div>
