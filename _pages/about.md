@@ -58,6 +58,7 @@ redirect_from:
   
   .publication-item {
     display: flex;
+    align-items: center;
     margin-bottom: 40px;
     padding-bottom: 30px;
     border-bottom: 1px solid #e0e0e0;
@@ -84,14 +85,14 @@ redirect_from:
   }
   
   .pub-title {
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 600;
     margin-bottom: 8px;
     line-height: 1.4;
   }
   
   .pub-authors {
-    font-size: 16px;
+    font-size: 15px;
     margin-bottom: 6px;
     line-height: 1.6;
   }
@@ -108,7 +109,7 @@ redirect_from:
   .pub-venue {
     color: #d32f2f;
     font-style: italic;
-    font-size: 16px;
+    font-size: 15px;
     margin-bottom: 8px;
   }
   
