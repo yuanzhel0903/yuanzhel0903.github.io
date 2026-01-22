@@ -234,6 +234,21 @@ My research focuses on the capability of embodied agents and applying them for p
       </div>
     </div>
   </div>
+  <div class="publication-item">
+    <div class="pub-image">
+      <img src="/images/core3d.png" alt="CoRe3D">
+    </div>
+    <div class="pub-content">
+      <div class="pub-title">CoRe3D: Collaborative Reasoning as a Foundation for 3D Intelligence</div>
+      <div class="pub-authors">
+        Tianjiao Yu, Xinzhuo Li, Yifan Shen, <strong>Yuanzhe Liu</strong>, Ismini Lourentzou
+      </div>
+      <div class="pub-venue">Preprint, 2025</div>
+      <div class="pub-links">
+        <a href="https://arxiv.org/pdf/2512.12768">Paper</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 <script>
