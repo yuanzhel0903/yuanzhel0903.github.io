@@ -148,8 +148,6 @@ My research focuses on the capability of embodied agents and applying them for p
 </div>
 
 <div id="selected-tab" class="tab-content active">
-  
-  <!-- Selected Publications -->
   <div class="publication-item">
     <div class="pub-image">
       <img src="/images/spatialreasoner.png" alt="SpatialReasoner-R1">
@@ -166,12 +164,9 @@ My research focuses on the capability of embodied agents and applying them for p
       </div>
     </div>
   </div>
-  
 </div>
 
 <div id="full-tab" class="tab-content">
-  
-  <!-- Publication 1 -->
   <div class="publication-item">
     <div class="pub-image">
       <img src="/images/spatialreasoner.png" alt="SpatialReasoner-R1">
@@ -188,8 +183,6 @@ My research focuses on the capability of embodied agents and applying them for p
       </div>
     </div>
   </div>
-  
-  <!-- Publication 2 -->
   <div class="publication-item">
     <div class="pub-image">
       <img src="/images/deeptrace.png" alt="DeeptraceReward">
@@ -208,7 +201,6 @@ My research focuses on the capability of embodied agents and applying them for p
       </div>
     </div>
   </div>
-  
 </div>
 
 <script>
