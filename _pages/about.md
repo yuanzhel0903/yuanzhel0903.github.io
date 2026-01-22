@@ -317,12 +317,12 @@ My research focuses on the capability of embodied agents and applying them for p
 
 ### Services
 
-**Conference Reviewer:** ICML, ICLR, NeurIPS (Top Reviewer in NeurIPS 2023), ACL/ARR, ICRA, AAMAS.
+**Conference Reviewer:** CVPR, ICLR, NeurIPS
 
-**Journal Reviewer:** IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Artificial Intelligence (TAI), Machine Learning, Journal of Artificial Intelligence Research.
+**Journal Reviewer:** 
 
-**Teaching Assistant:** COMP 4211 Machine Learning, HKUST; COMP 1021 Introduction to Computer Science, HKUST
+**Teaching Assistant:** 
 
 ### Hobbies
 
-In my leisure time, I enjoy sports like running, table tennis, and swimming.
+
