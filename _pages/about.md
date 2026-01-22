@@ -176,7 +176,7 @@ My research focuses on the capability of embodied agents and applying them for p
       <div class="pub-authors">
         <strong>Yuanzhe Liu</strong>, Jingyuan Zhu, Yuchen Mo, Gen Li, Xu Cao, Jin Jin, Yifan Shen, Zhengyuan Li, Tianjiao Yu, Wenzhen Yuan, Fangqiang Ding, Ismini Lourentzou
       </div>
-      <div class="pub-venue">Preprint, 2025</div>
+      <div class="pub-venue">Preprint, 2026</div>
       <div class="pub-links">
         <a href="https://arxiv.org/pdf/2601.07060">Paper</a>
       </div>
@@ -210,7 +210,7 @@ My research focuses on the capability of embodied agents and applying them for p
       <div class="pub-authors">
         <strong>Yuanzhe Liu</strong>, Jingyuan Zhu, Yuchen Mo, Gen Li, Xu Cao, Jin Jin, Yifan Shen, Zhengyuan Li, Tianjiao Yu, Wenzhen Yuan, Fangqiang Ding, Ismini Lourentzou
       </div>
-      <div class="pub-venue">Preprint, 2025</div>
+      <div class="pub-venue">Preprint, 2026</div>
       <div class="pub-links">
         <a href="https://arxiv.org/pdf/2601.07060">Paper</a>
       </div>
