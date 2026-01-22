@@ -84,14 +84,14 @@ redirect_from:
   }
   
   .pub-title {
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 600;
     margin-bottom: 8px;
     line-height: 1.4;
   }
   
   .pub-authors {
-    font-size: 14px;
+    font-size: 15px;
     margin-bottom: 6px;
     line-height: 1.6;
   }
@@ -108,6 +108,7 @@ redirect_from:
   .pub-venue {
     color: #d32f2f;
     font-style: italic;
+    font-size: 15px;
     margin-bottom: 8px;
   }
   
@@ -116,7 +117,7 @@ redirect_from:
     margin-right: 15px;
     color: #4285f4;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 13px;
   }
   
   .pub-links a:hover {
