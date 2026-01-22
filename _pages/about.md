@@ -353,12 +353,10 @@ My research focuses on the capability of embodied agents and applying them for p
 
 <div id="others" class="page-section"></div>
 
-## Others
+## Services
 
-### Services
-
-**Conference Reviewer:** CVPR, AAAI, NeurIPS
-**Workshops Reviewer:** CVPR 2026 Workshop on Computer Vision for Children (CV4CHL)
+- **Conference Reviewer:** CVPR, AAAI, NeurIPS
+- **Workshops Reviewer:** CVPR 2026 Workshop on Computer Vision for Children (CV4CHL)
 
 ### Hobbies
 Outside of research, I'm passionate about basketball, billiards, and strength training. I'm an avid powerlifter with a combined total of 358kg across the three main lifts (squat, bench press, and deadlift). While I'm not a professional, I deeply enjoy the process of pushing my physical limits and the mental discipline it requires. I look forward to continuing this journey and setting new personal records during my PhD years ahead.
