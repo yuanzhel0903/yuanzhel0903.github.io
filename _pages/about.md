@@ -132,6 +132,33 @@ redirect_from:
   .tab-content.active {
     display: block;
   }
+
+  /* Education section */
+  .education-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .edu-logo {
+    flex: 0 0 60px;
+    margin-right: 20px;
+  }
+  
+  .edu-logo img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+  }
+  
+  .edu-content {
+    flex: 1;
+  }
+  
+  .edu-degree {
+    font-size: 16px;
+    line-height: 1.6;
+  }
 </style>
 
 I am a Master's student in Data Science at the University of Pennsylvania. Previously, I earned a Bachelor's degree in Mathematics from UW–Madison. I am currently a visiting Research Assistant at UIUC, where I am fortunate to work with Prof. [Ismini Lourentzou](https://isminoula.github.io/) and Prof. [James M. Rehg](https://rehg.org/). At Penn, I was fortunate to work with Prof. [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) and Prof. [Dan Roth](https://www.cis.upenn.edu/~danroth/).
@@ -293,11 +320,23 @@ My research focuses on the capability of embodied agents and applying them for p
 ---
 
 <div id="educations" class="page-section"></div>
-
-## Educations
-
-- **M.S. in Data Science**, University of Pennsylvania, 2024-2026
-- **B.S. in Mathematics**, University of Wisconsin–Madison, 2020-2024
+<h2>Educations</h2>
+<div class="education-item">
+  <div class="edu-logo">
+    <img src="/images/upenn_logo.png" alt="University of Pennsylvania">
+  </div>
+  <div class="edu-content">
+    <div class="edu-degree"><strong>M.S. in Data Science</strong>, University of Pennsylvania, 2024-2026</div>
+  </div>
+</div>
+<div class="education-item">
+  <div class="edu-logo">
+    <img src="/images/wisc_logo.png" alt="University of Wisconsin-Madison">
+  </div>
+  <div class="edu-content">
+    <div class="edu-degree"><strong>B.S. in Mathematics</strong>, University of Wisconsin–Madison, 2020-2024</div>
+  </div>
+</div>
 
 ---
 
