@@ -263,7 +263,7 @@ My research focuses on the capability of embodied agents and applying them for p
   </div>
   <div class="publication-item">
     <div class="pub-image">
-      <img src="/images/core3d.png" alt="CoRe3D">
+      <img src="/images/Core3d.png" alt="CoRe3D">
     </div>
     <div class="pub-content">
       <div class="pub-title">CoRe3D: Collaborative Reasoning as a Foundation for 3D Intelligence</div>
