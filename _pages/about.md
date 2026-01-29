@@ -209,6 +209,22 @@ My research focuses on the capability of embodied agents and applying them for p
       </div>
     </div>
   </div>
+  <div class="publication-item">
+    <div class="pub-image">
+      <img src="/images/starevla.png" alt="StareVLA">
+    </div>
+    <div class="pub-content">
+      <div class="pub-title">StareVLA: Spatial-Temporal Aware Vision-Language-Action Model</div>
+      <div class="pub-authors">
+        Feng Xu*, Guangyao Zhai*, Xin Kong<sup>†</sup>, <strong>Yuanzhe Liu</strong>, Tingzhong Fu, Daniel F. N. Gordon, Xueli An, Benjamin Busam
+      </div>
+      <div class="pub-venue">Preprint, 2026</div>
+      <div class="pub-links">
+        <a href="https://sites.google.com/view/starevla">Webpage</a>
+        <a href="https://arxiv.org/pdf/2512.05107">Paper</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div id="full-tab" class="tab-content">
@@ -245,6 +261,22 @@ My research focuses on the capability of embodied agents and applying them for p
   </div>
   <div class="publication-item">
     <div class="pub-image">
+      <img src="/images/starevla.png" alt="StareVLA">
+    </div>
+    <div class="pub-content">
+      <div class="pub-title">StareVLA: Spatial-Temporal Aware Vision-Language-Action Model</div>
+      <div class="pub-authors">
+        Feng Xu*, Guangyao Zhai*, Xin Kong<sup>†</sup>, <strong>Yuanzhe Liu</strong>, Tingzhong Fu, Daniel F. N. Gordon, Xueli An, Benjamin Busam
+      </div>
+      <div class="pub-venue">Preprint, 2026</div>
+      <div class="pub-links">
+        <a href="https://sites.google.com/view/starevla">Webpage</a>
+        <a href="https://arxiv.org/pdf/2512.05107">Paper</a>
+      </div>
+    </div>
+  </div>
+  <div class="publication-item">
+    <div class="pub-image">
       <img src="/images/deeptrace.png" alt="DeeptraceReward">
     </div>
     <div class="pub-content">
@@ -263,7 +295,7 @@ My research focuses on the capability of embodied agents and applying them for p
   </div>
   <div class="publication-item">
     <div class="pub-image">
-      <img src="/images/Core3d.png" alt="CoRe3D">
+      <img src="/images/core3d.png" alt="CoRe3D">
     </div>
     <div class="pub-content">
       <div class="pub-title">CoRe3D: Collaborative Reasoning as a Foundation for 3D Intelligence</div>
