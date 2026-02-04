@@ -191,6 +191,7 @@ My research focuses on the capability of embodied agents and applying them for p
       <div class="pub-links">
         <a href="https://plan-lab.github.io/projects/spatialreasoner/">Webpage</a>
         <a href="https://arxiv.org/pdf/2506.21656">Paper</a>
+        <a href="https://github.com/PLAN-Lab/SpatialReasonerR1">Code</a>
       </div>
     </div>
   </div>
@@ -241,6 +242,7 @@ My research focuses on the capability of embodied agents and applying them for p
       <div class="pub-links">
         <a href="https://plan-lab.github.io/projects/spatialreasoner/">Webpage</a>
         <a href="https://arxiv.org/pdf/2506.21656">Paper</a>
+        <a href="https://github.com/PLAN-Lab/SpatialReasonerR1">Code</a>
       </div>
     </div>
   </div>
