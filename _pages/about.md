@@ -238,7 +238,7 @@ My research focuses on the capability of embodied agents and applying them for p
       <div class="pub-authors">
         Yifan Shen*, <strong>Yuanzhe Liu*</strong> (*equal contribution), Jingyuan Zhu, Xu Cao, Xiaofeng Zhang, Yixiao He, Wenming Ye, James M. Rehg, Ismini Lourentzou
       </div>
-      <div class="pub-venue">NeurIPS, 2025</div>
+      <div class="pub-venue">NeurIPS 2025</div>
       <div class="pub-links">
         <a href="https://plan-lab.github.io/projects/spatialreasoner/">Webpage</a>
         <a href="https://arxiv.org/pdf/2506.21656">Paper</a>
