@@ -187,7 +187,7 @@ My research focuses on the capability of embodied agents and applying them for p
       <div class="pub-authors">
         Yifan Shen*, <strong>Yuanzhe Liu*</strong> (*equal contribution), Jingyuan Zhu, Xu Cao, Xiaofeng Zhang, Yixiao He, Wenming Ye, James M. Rehg, Ismini Lourentzou
       </div>
-      <div class="pub-venue">NeurIPS, 2025</div>
+      <div class="pub-venue">NeurIPS 2025</div>
       <div class="pub-links">
         <a href="https://plan-lab.github.io/projects/spatialreasoner/">Webpage</a>
         <a href="https://arxiv.org/pdf/2506.21656">Paper</a>
@@ -204,7 +204,7 @@ My research focuses on the capability of embodied agents and applying them for p
       <div class="pub-authors">
         <strong>Yuanzhe Liu</strong>, Jingyuan Zhu, Yuchen Mo, Gen Li, Xu Cao, Jin Jin, Yifan Shen, Zhengyuan Li, Tianjiao Yu, Wenzhen Yuan, Fangqiang Ding, Ismini Lourentzou
       </div>
-      <div class="pub-venue">Preprint, 2026</div>
+      <div class="pub-venue">CVPR 2026</div>
       <div class="pub-links">
         <a href="https://arxiv.org/pdf/2601.07060">Paper</a>
       </div>
@@ -255,7 +255,7 @@ My research focuses on the capability of embodied agents and applying them for p
       <div class="pub-authors">
         <strong>Yuanzhe Liu</strong>, Jingyuan Zhu, Yuchen Mo, Gen Li, Xu Cao, Jin Jin, Yifan Shen, Zhengyuan Li, Tianjiao Yu, Wenzhen Yuan, Fangqiang Ding, Ismini Lourentzou
       </div>
-      <div class="pub-venue">Preprint, 2026</div>
+      <div class="pub-venue">CVPR 2026</div>
       <div class="pub-links">
         <a href="https://arxiv.org/pdf/2601.07060">Paper</a>
       </div>
